@@ -1,2 +1,4 @@
 echo "hola mundo con jenkins y github"
 echo "Rocket Care Monda"
+echo "sapo monda"
+echo "duque es para las perras"
